@@ -8,6 +8,8 @@ crAPI is modern, built on top of a microservices architecture. When time has
 come to buy your first car, sign up for an account and start your journey. To
 know more about crAPI, please check [crAPI's overview][overview].
 
+This is a test.
+
 ## QuickStart Guide
 
 ### Docker and docker-compose
